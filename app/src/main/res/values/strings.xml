@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">Teste</string>
-    <string name="hello_world">Tem um Easter Egg neste app, tente acha-lo!</string>
+    
+    <string name="app_name">Test</string>
+    <string name="hello_world">There's an Easter Egg in this app, try to find it!</string>
 
 </resources>
