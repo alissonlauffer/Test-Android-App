@@ -19,8 +19,7 @@ public class MainActivity extends Activity
 
     public void OnClickHelloText(View view) 
     {
-    	// This Java code shows a toast
-    	Toast.makeText(this, "Você achou o Easter Egg ;-;", Toast.LENGTH_SHORT).show();
+    	Toast.makeText(this, "You found the Easter Egg ;-;", Toast.LENGTH_LONG).show();
 	}
 
 
